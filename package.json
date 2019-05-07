@@ -1,0 +1,19 @@
+{
+  "name": "newsweek",
+  "version": "1.0.0",
+  "description": "news website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uche-inyama/NewsWeek.git"
+  },
+  "author": "Inyama Uchechukwu Henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uche-inyama/NewsWeek/issues"
+  },
+  "homepage": "https://github.com/uche-inyama/NewsWeek#readme"
+}
