@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uche-inyama/NewsWeek/issues"
   },
-  "homepage": "https://github.com/uche-inyama/NewsWeek#readme"
+  "homepage": "https://github.com/uche-inyama/NewsWeek#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
