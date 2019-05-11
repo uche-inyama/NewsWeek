@@ -6,24 +6,49 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/index.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
   <title>Bootstrap</title>
 </head>
 <body>
-  <nav class="navbar navbar-dark navbar-expand-sm" style="background-color: red;">
-    <div class= "container">
-      <a class ="navbar-brand" href="#">Newsweek</a>
+  <nav class="navbar navbar-dark navbar-expand" style="background-color: red;">
+    <div class= "container-fluid">
+        <a class ="navbar-brand text-sm-center" class= "logo" href="#">Newsweek</a>
         <div class="navbar-nav">
           <a class="nav-item nav-link" href="#">SIGN IN</a>
           <a class="nav-item nav-link" href="#">SUBSCRIBE</a>
-          <a class="nav-item nav-link" href="#">uche</a>
+
+          <!-- <button class ="navbar-toggler-lg" type="button"
+          data-toggle="collapse" data-target="#myTogglerNav"
+          aria-controls="myTogglerNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class = "navbar-toggler-icon"></span>
+          </button>
+          <div class = "collapse navbar-collapse-lg" id = "myTogglerNav">
+            <div class="navbar-nav">
+
+            </div> -->
+          </div>
         </div>
     </div>
   </nav>
 <div class="main container-fluid">
-  <div class = "colwrap row sticky-scroll">
-
+    <div class = "row">
+      <div class ="col-12" class = "featured-story">
+        <div class="block-title">Top Story</div>
+          <article>
+            <div class = "figure">
+              <img  class = "img-fluid width: 100%" src="../assets/images/Top-Story/gettyimages-1084652224-594x594.jpg"/>
+              <figcaption>
+                <h2 class = "font-weight-bold"><a href = "#">Treasury Secretary Mnuchin, IRS Chief Retting Subpoenaed over Trump Taxes</a></h2>
+                <div class="summary">Mnuchin refused to hand over the financial documents for a third time earlier this week to Ways and Means Chairman Richard Neal.</div>
+                <hr>
+                <h3>Treasury Refuses to Release Trump's Taxes: 'Lack of Legislative Purpose'</h3>
+              </figcaption>
+            </article>
+          </div>
+        </div>
+    </div>
   </div>
-
 </div><!-- content container -->
 <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
 <script src="js/popper.min.js"></script>
