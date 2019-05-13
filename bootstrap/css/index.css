@@ -16,12 +16,13 @@ figcaption h2 a{
 .col {
   height: 172px;
 }
-.col h3 {
+.col-12 h3 {
   font-family: "Roboto Condensed", sans-serif;
   font-size:1.0rem;
   color:#000;
   font-weight: 700;
 }
-.col p{
+.col-12 p{
   font-size: 0.8125rem;
 }
+
