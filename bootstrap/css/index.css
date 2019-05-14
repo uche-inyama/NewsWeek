@@ -25,4 +25,6 @@ figcaption h2 a{
 .col-12 p{
   font-size: 0.8125rem;
 }
-
+.cover{
+    object-fit: cover;
+}
