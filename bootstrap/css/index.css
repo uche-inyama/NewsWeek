@@ -71,7 +71,15 @@ ul li{
   width: auto;
   height: 63px;
 }
-.opinion .info div{
+.latest-news-image_holder {
+  width: 135px;
+  height: 100px;
+}
+.latest-news-image_holder img{
+  width: 135px;
+  height: auto;
+}
+.opinion .info div, .latest-news .info div{
     font-weight: bold;
     font-stretch: normal;
     font-size: 17px;
