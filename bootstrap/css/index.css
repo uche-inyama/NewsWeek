@@ -62,3 +62,29 @@ ul li{
   height: 24px;
   list-style: none;
 }
+.img_holder{
+  width: 63px;
+  height: 63px;
+  border-radius: 50%;
+}
+.img_holder img{
+  width: auto;
+  height: 63px;
+}
+.opinion .info div{
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 17px;
+    line-height: 21px;
+    font-family: "Roboto Condensed", sans-serif;
+    color: #000;
+}
+
+.opinion .info h4{
+     font-size: 14px;
+    line-height: 21px;
+    color: #555;
+    text-transform: uppercase;
+    margin-top: 4px;
+}
+ 
