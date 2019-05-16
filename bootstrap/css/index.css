@@ -19,12 +19,12 @@ figcaption h2 a{
 .col {
   height: 172px;
 }
-.col-12 h3 {
+.col-md-5 h3, .col-12 h3 {
   font-size:1.0rem;
   color:#000;
   font-weight: 700;
 }
-.col-12 p{
+.col-md-5 p,  .col-12 p{
   font-size: 0.8125rem;
 }
 .cover{
