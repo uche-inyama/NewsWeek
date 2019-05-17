@@ -95,4 +95,29 @@ ul li{
     text-transform: uppercase;
     margin-top: 4px;
 }
- 
+.special-Edition{
+  height: 400px;
+  width:;
+  text-align: center;
+}
+.special-Edition-wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0px;
+}
+
+ .the-magazine-image-holder img{
+    width: 100%;
+    height: auto;
+  }
+
+@media (min-width: 768px){
+  .the-magazine-image-holder img{
+    width: auto;
+    height: auto;
+  }
+}
+
