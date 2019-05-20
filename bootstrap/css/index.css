@@ -109,15 +109,15 @@ ul li{
   margin: 0px;
 }
 
- .the-magazine-image-holder img{
-    width: 100%;
-    height: auto;
-  }
+.col-md-4 .the-other-section-title {
+  margin-top: 10px;
+  margin-bottom: 25px;
+ }
 
 @media (min-width: 768px){
-  .the-magazine-image-holder img{
-    width: auto;
-    height: auto;
+  .col-md-4 .the-other-section-title{
+    font-size: 1.125rem;
+    line-height: 18px;
   }
 }
 
