@@ -55,7 +55,7 @@ figcaption h2 a{
   font-size: 1rem;
 }
 
-ul li{
+.container-fluid.navigation.p-3.border-bottom li{
   color: black;
   font-weight: 700;
   font-size: 1.3125rem;
@@ -121,3 +121,13 @@ ul li{
   }
 }
 
+@media (min-width: 768px){
+  .col-md-12.d-flex.flex-column.align-self-center img
+  {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+
+  }
+}
