@@ -142,3 +142,14 @@ figcaption h2 a{
     color: #666;
     margin-bottom: 12px;
   }
+  .menu.list-unstyled.d-flex.flex-wrap li{
+    padding-right: 20px;
+    margin: 6px 0;
+    cursor: pointer;
+  }
+
+  .list-unstyled.d-flex li{
+    padding-right: 20px;
+    margin: 6px 0;
+    cursor: pointer;
+  }
