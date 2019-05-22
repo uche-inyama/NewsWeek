@@ -131,6 +131,17 @@ figcaption h2 a{
 
   }
 }
+
+@media (min-width: 768px){
+  .col-md-12.d-flex.flex-column.align-self-center img
+  {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+
+  }
+}
 .logo{
     fill: #94d31b;
 }
