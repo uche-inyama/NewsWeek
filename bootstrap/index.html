@@ -19,14 +19,14 @@
       <div class="head-nav pl-4" style="height: 100px; background-color: red; color: white">
         <div class="container-fluid d-lg-flex justify-content-lg-between align-items-lg-end pb-3" style="height: 100%">
           <div class = "date-time">Tue, May 14, 2019</div>
-          <a style = "width: 396px; height: 70px;"><img class = "img-fluid" src="./images/logoWhite.svg" alt = "logoWhite"></a>
+          <a><img class = "img-fluid  d-flex align-items-center" src="./images/logoWhite.svg" alt = "logoWhite"></a>
 <!--           <a><h1>Newsweek</h1></a>
  -->          <a><span>SIGN IN</span> <span class ="p-2 ml-2">SUBSCRIBE</span></a>
         </div>
       </div>
 
-        <ul style = "background-color: #fff;" class="container-fluid navigation p-3 border-bottom">
-          <li><a href="#"></a>U.S.</li>
+        <ul style = "background-color: #fff;" class="nav-large-xlarge container-fluid navigation p-3 border-bottom">
+          <li style = "cursor:pointer"><a href="#"></a>U.S.</li>
           <li><a href="#"></a>World</li>
           <li><a href="#"></a>Business</li>
           <li><a href="#"></a>Tech & Science</li>
@@ -37,15 +37,18 @@
           <li><a href="#"></a>Ndelible</li>
           <li><a href="#"></a>Search</li>
         </ul>
-
     </div>
-    <nav class="d-lg-none navbar navbar-expand-none " style = "background-color: red;">
+    <nav class="d-lg-none navbar navbar-expand-none" style = "background-color: red;">
       <div class="container-fluid pl-0 pb-1">
 
-          <a style = "width:132px; height:20px;" class = "navbar-brand .d-md-none"  href="#"><img class = "img-fluid" src="./images/logoWhite.svg" alt = "logowhite"></a>
-          <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myToggleNav" aria-controls="myToggleNav" aria-label="Toggle Navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+          <a style = "width:132px; height:auto;" class = "navbar-brand .d-md-none"  href="#"><img class = "img-fluid" src="./images/logoWhite.svg" alt = "logowhite"></a>
+
+          <div class = "d-flex align-items-end pb-0" style = "color: white;">
+              <div style = " font-size:1.1rem; padding: 3px; background-color: white; color: red; text-transform: uppercase; font-weight: 700; cursor:pointer;">subscription</div>
+              <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myToggleNav" aria-controls="myToggleNav" aria-label="Toggle Navigation">
+                  <span><i style = "color: white; cursor:pointer;" class="fas fa-bars"></i></span>
+              </button>
+          </div>
 
           <div class = "collapse navbar-collapse" id="myToggleNav">
             <div class="navbar-nav d-flex justify-content-md-end">
