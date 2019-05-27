@@ -33,10 +33,6 @@ header{
   text-decoration: none;
 }
 
-{
-  cursor: pointer;
-}
-
 .row.more-stories img:hover, 
 .row.more-stories h3:hover,
 .figure img:hover, 
@@ -76,7 +72,7 @@ a.p-2{
   cursor:pointer;
 }
 
-.opinion.d-flex.py-2.border-bottom div:ahover{
+.opinion.d-flex.py-2.border-bottom div a:hover{
  color:red;
  text-decoration: underline;
 }
@@ -252,8 +248,9 @@ a.p-2{
   position:relative;
   z-index: 1;
   top: 180px;
-  }
+  
 }
+
 @media (max-width: 575px){
   .content.footer {
     position:relative;
