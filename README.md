@@ -9,8 +9,6 @@
 ![Screenshot from 2020-06-21 19-04-40](https://user-images.githubusercontent.com/46329537/85231813-37eda480-b3f2-11ea-9c73-d7d4c2dfe624.png)
 
 
-Additional description about the project and its features.
-
 
 ## Built With
 
