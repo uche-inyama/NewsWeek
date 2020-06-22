@@ -11,6 +11,13 @@
 
 Additional description about the project and its features.
 
+
+## Built With
+
+- HTML,
+- Bootstrap,
+- CSS
+
 ## Getting Started
 
 To get the local copy up and running follow these simple example steps.
@@ -23,12 +30,7 @@ On your terminal:
 - To view the project on your browser, if you are working with vscode, on the status bar, click on `Go Live`,
   alternatively, inside the project folder, on your machine, look for a html file, right click on it and 
   and select the browser of your choice, to view the project.
-
-## Built With
-
-- HTML,
-- Bootstrap,
-- CSS
+  
 
 ## Live Demo
 
