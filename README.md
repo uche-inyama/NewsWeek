@@ -20,7 +20,9 @@ On your terminal:
 - Clone the repository with `git@github.com:uche-inyama/NewsWeek.git` to get a local copy.
 - cd into the folder where the project is stored in your machine.
 - To look at the code on the editor, for vscode type: *`code . `*
-- To view the project on your browser, for vscode, on the status bar, click on ` go live `
+- To view the project on your browser, if you are working with vscode, on the status bar, click on `Go Live`,
+  alternatively, inside the project folder, on your machine, look for a html file, right click on it and 
+  and select the browser of your choice, to view the project.
 
 ## Built With
 
