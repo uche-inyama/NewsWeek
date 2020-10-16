@@ -26,8 +26,8 @@ On your terminal:
 - cd into the folder where the project is stored in your machine.
 - To look at the code on the editor, for vscode type: *`code . `*
 - To view the project on your browser, if you are working with vscode, on the status bar, click on `Go Live`,
-  alternatively, inside the project folder, on your machine, look for a html file, right click on it and 
-  and select the browser of your choice, to view the project.
+  alternatively, inside the project folder, on your machine, look for a html file, right-click on it and 
+  select the browser of your choice, to view the project.
   
 
 ## Live Demo
